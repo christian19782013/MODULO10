@@ -1,0 +1,116 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>Home Page</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+  <meta name="pageid" content="home" />
+  <link rel="stylesheet" href="../../styles/itil.css" type="text/css" />
+ </head>
+ <body onload="top.scripts.pageLoad('home');">
+  
+<table border="0" cellspacing="2" cellpadding="3" align="right" width="200">
+   
+  <tr align="right">
+    <td>
+      <div align="center">
+      <img src="../images/ogc_logo.gif" alt="OGC logo" width="117" height="50" />
+     </div>
+    </td>
+  </tr>
+   
+  <tr align="right">
+    <td class="pismMenuCell">
+     <a href="contact.htm" class="pismMenuText">Contacts</a>&nbsp;&nbsp;
+    </td>
+  </tr>
+   
+  <tr align="right">
+    <td class="pismMenuCell">
+     <a href="info.htm" class="pismMenuText">Further&nbsp;Information</a>&nbsp;&nbsp;
+    </td>
+  </tr>
+   
+  <tr align="right">
+    <td class="pismMenuCell">
+     <a href="foreword.htm" class="pismMenuText">Foreword</a>&nbsp;&nbsp;
+    </td>
+  </tr>
+   
+  <tr align="right">
+    <td class="pismMenuCell">
+     <a href="authors.htm" class="pismMenuText">Authors</a>&nbsp;&nbsp;
+    </td>
+  </tr>
+   
+  <tr align="right">
+    <td class="pismMenuCell">
+     <a href="bookshop.htm" class="pismMenuText">Bookshop</a>&nbsp;&nbsp;
+    </td>
+  </tr>
+   
+  <tr align="right">
+    <td class="pismMenuCell">
+     <a href="licence.htm" class="pismMenuText">User Licence</a>&nbsp;&nbsp;
+    </td>
+  </tr>
+  <tr align="right">
+    <td class="pismMenuCell">
+     <a href="feedback.htm" class="pismMenuText">Feedback Form</a>&nbsp;&nbsp;
+    </td>
+  </tr>
+   
+  <tr align="right">
+    <td>&nbsp;</td>
+  </tr>
+  <tr align="right">
+    <td class="pismRegistered">ITIL &reg; is a registered trademark of OGC</td>
+  </tr>
+  <tr align="right">
+    <td>&nbsp;</td>
+  </tr>
+  <tr align="right">
+    <td>&nbsp;</td>
+  </tr>
+</table>
+  <h2>Introduction</h2>
+  <p>ITIL (the IT Infrastructure Library) is the most widely accepted approach 
+        to IT service management in the world, ITIL provides a comprehensive and 
+        consistent set of best practices for IT service management, promoting 
+        a quality approach to achieving business effectiveness and efficiency 
+        in the use of information systems.</p>
+  <p>ITIL is based on the collective experience of commercial and governmental 
+        practitioners worldwide. This has been distilled into one reliable, coherent 
+        approach, which is fast becoming a de facto standard used by some of the 
+        world's leading businesses.</p>
+  
+<p>For more detailed information on how to use this ITIL Web 
+        CD see the Help page. Should you require technical support on this CD 
+        contact TSO by telephone or email, details of which 
+        are contained in the <a href="help.htm">Help Page</a>.</p>
+  
+<p>TSO would welcome your views on our products, so that 
+        we can continually improve them. If you would like to comment on this 
+        new electronic ITIL  publication, please take a moment 
+        to fill in our <a href="feedback.htm">Feedback Form</a> and 
+        express your opinions. Please <a href="privacy.htm">click here</a> to 
+        read TSO's Privacy Policy.</p>
+		<br clear="all" />
+  <hr noshade="noshade" size="1" />
+<div class="copyright">
+  &copy; Crown Copyright 2002.<br />
+    This is a Value Added product which falls outside the scope of the HMSO Class 
+    Licence.
+	</div>
+	<div class="disclaimer">
+  <p>Applications to reproduce material in this publication/contained on this 
+    site should be sent to HMSO, Licensing Division, St Clements House, 2-16 Colegate, 
+    Norwich, NR3 1BQ, Tel No (01603) 621000 Fax No (01603) 723000, E-mail: <a href="mailto:licensing@hmso.gov.uk">licensing@hmso.gov.uk</a> 
+    , or complete the application form on the HMSO website <a href="http://www.hmso.gov.uk/forms/cform2.htm" target="_blank">www.hmso.gov.uk/forms/cform2.htm</a> 
+    . HMSO, in consultation with Office of Government Commerce - IT Directorate 
+    (OGC-ITD) will prepare a licence based on standard terms tailored to your 
+    particular requirements including payment terms.</p>
+ </div>
+  <p>&nbsp;</p>
+ </body>
+</html>

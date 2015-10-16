@@ -1,0 +1,1559 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BPMN BPMNVersion="1.9">
+  <BusinessProcessDiagram id="(97b6f52a-3817-45c4-8bcf-ce49b9d0c018)">
+    <Name>Ciclo de Vida de desarrollo de Software</Name>
+    <Description />
+    <IPCode>IP-010</IPCode>
+    <Version />
+    <Author />
+    <CreationDate>634825428190102992</CreationDate>
+    <IsCopyFromTemplate>false</IsCopyFromTemplate>
+    <PoolCollection>
+      <Pool id="(802b3389-c58f-478b-bf85-859bf38f60ba)">
+        <Name>Pool Name</Name>
+        <BoundaryVisible>false</BoundaryVisible>
+        <MiddlePoint X="0" Y="0" />
+        <Size Width="0" Height="0" />
+        <LaneCollection>
+          <Lane id="(7fbaa4bd-c25d-44b2-8c3f-d8070e3d023d)">
+            <Name>Fase  Inicio</Name>
+            <Description />
+            <MiddlePoint X="684" Y="150" />
+            <Size Width="1368" Height="300" />
+          </Lane>
+          <Lane id="(b003d3e0-10f7-4567-b3ea-d3d8a34385c6)">
+            <Name>Fase Elaboración</Name>
+            <Description />
+            <MiddlePoint X="684" Y="450" />
+            <Size Width="1367" Height="300" />
+          </Lane>
+          <Lane id="(a062c3a7-8507-47ff-958d-0c24558969cc)">
+            <Name>Fase Construcción</Name>
+            <Description />
+            <MiddlePoint X="685" Y="750" />
+            <Size Width="1370" Height="300" />
+          </Lane>
+          <Lane id="(37bea1be-ab6b-46b1-8eb1-4fb74a695e84)">
+            <Name>Fase Transición</Name>
+            <Description />
+            <MiddlePoint X="685" Y="1050" />
+            <Size Width="1370" Height="300" />
+          </Lane>
+        </LaneCollection>
+        <Process>
+          <BPMNElements>
+            <Tasks>
+              <Task id="(c35535c1-3324-4be0-a2c6-4ea223ece88a)">
+                <Name>Especificar y Analizar las necesidades del negocio.</Name>
+                <Description />
+                <IPCode>IP-010-010</IPCode>
+                <Status />
+                <TaskType />
+                <IconType>None</IconType>
+                <MiddlePoint X="290" Y="130" />
+                <Size Width="100" Height="60" />
+                <StatisticalData>
+                  <ProcessingTimeMean>0</ProcessingTimeMean>
+                  <ProcessingTimeDeviation>0</ProcessingTimeDeviation>
+                  <CostFixed>0</CostFixed>
+                  <CostVariable>0</CostVariable>
+                </StatisticalData>
+              </Task>
+              <Task id="(27b3f37f-9d70-480c-87e6-41a6b068640a)">
+                <Name>Acordar grupo de trabajo designado y acuerdo de entregables.</Name>
+                <Description />
+                <IPCode>IP-010-020</IPCode>
+                <Status />
+                <TaskType />
+                <IconType>None</IconType>
+                <MiddlePoint X="440" Y="130" />
+                <Size Width="100" Height="60" />
+                <StatisticalData>
+                  <ProcessingTimeMean>0</ProcessingTimeMean>
+                  <ProcessingTimeDeviation>0</ProcessingTimeDeviation>
+                  <CostFixed>0</CostFixed>
+                  <CostVariable>0</CostVariable>
+                </StatisticalData>
+              </Task>
+              <Task id="(e79f140c-0b76-4493-b927-1540eff659d7)">
+                <Name>Definir riesgos por entregable</Name>
+                <Description />
+                <IPCode>IP-010-040</IPCode>
+                <Status />
+                <TaskType />
+                <IconType>None</IconType>
+                <MiddlePoint X="740" Y="130" />
+                <Size Width="100" Height="60" />
+                <StatisticalData>
+                  <ProcessingTimeMean>0</ProcessingTimeMean>
+                  <ProcessingTimeDeviation>0</ProcessingTimeDeviation>
+                  <CostFixed>0</CostFixed>
+                  <CostVariable>0</CostVariable>
+                </StatisticalData>
+              </Task>
+              <Task id="(7506a8ef-4f6a-4baa-9f02-a88119a12571)">
+                <Name>Refinar requerimientos técnicos y de negocio (Caract. Funcionales, CU)</Name>
+                <Description />
+                <IPCode>IP-010-110</IPCode>
+                <Status />
+                <TaskType />
+                <IconType>None</IconType>
+                <MiddlePoint X="890" Y="130" />
+                <Size Width="100" Height="60" />
+                <StatisticalData>
+                  <ProcessingTimeMean>0</ProcessingTimeMean>
+                  <ProcessingTimeDeviation>0</ProcessingTimeDeviation>
+                  <CostFixed>0</CostFixed>
+                  <CostVariable>0</CostVariable>
+                </StatisticalData>
+              </Task>
+              <Task id="(446046e7-0663-46d3-a001-d2a9c8a55a4e)">
+                <Name>Especificar CU requeridos</Name>
+                <Description />
+                <IPCode>IP-010-150</IPCode>
+                <Status />
+                <TaskType />
+                <IconType>None</IconType>
+                <MiddlePoint X="290" Y="420" />
+                <Size Width="100" Height="60" />
+                <StatisticalData>
+                  <ProcessingTimeMean>0</ProcessingTimeMean>
+                  <ProcessingTimeDeviation>0</ProcessingTimeDeviation>
+                  <CostFixed>0</CostFixed>
+                  <CostVariable>0</CostVariable>
+                </StatisticalData>
+              </Task>
+              <Task id="(15d7f3d4-8649-429b-aeff-e22bff00ea8c)">
+                <Name>Implementar CU acordados</Name>
+                <Description />
+                <IPCode>IP-010-160</IPCode>
+                <Status />
+                <TaskType />
+                <IconType>None</IconType>
+                <MiddlePoint X="540" Y="360" />
+                <Size Width="100" Height="60" />
+                <StatisticalData>
+                  <ProcessingTimeMean>0</ProcessingTimeMean>
+                  <ProcessingTimeDeviation>0</ProcessingTimeDeviation>
+                  <CostFixed>0</CostFixed>
+                  <CostVariable>0</CostVariable>
+                </StatisticalData>
+              </Task>
+              <Task id="(c93e4e6d-bed7-42e4-873c-58061d0f1090)">
+                <Name>Evaluar Casos de Uso</Name>
+                <Description />
+                <IPCode>IP-010-170</IPCode>
+                <Status />
+                <TaskType />
+                <IconType>None</IconType>
+                <MiddlePoint X="680" Y="360" />
+                <Size Width="100" Height="60" />
+                <StatisticalData>
+                  <ProcessingTimeMean>0</ProcessingTimeMean>
+                  <ProcessingTimeDeviation>0</ProcessingTimeDeviation>
+                  <CostFixed>0</CostFixed>
+                  <CostVariable>0</CostVariable>
+                </StatisticalData>
+              </Task>
+              <Task id="(5c1e8ba8-1f7e-4349-a24e-4279090bdf6a)">
+                <Name>Gestionar segmento de entregables (GT, MC, CF, CU, DGCU)</Name>
+                <Description />
+                <IPCode>IP-010-190</IPCode>
+                <Status />
+                <TaskType />
+                <IconType>None</IconType>
+                <MiddlePoint X="462" Y="543" />
+                <Size Width="100" Height="60" />
+                <StatisticalData>
+                  <ProcessingTimeMean>0</ProcessingTimeMean>
+                  <ProcessingTimeDeviation>0</ProcessingTimeDeviation>
+                  <CostFixed>0</CostFixed>
+                  <CostVariable>0</CostVariable>
+                </StatisticalData>
+              </Task>
+              <Task id="(39ed3d3e-37de-4e2a-9310-273437ead116)">
+                <Name>Preparar y verificar documentación para paso a producción</Name>
+                <Description />
+                <IPCode>IP-010-360</IPCode>
+                <Status />
+                <TaskType />
+                <IconType>None</IconType>
+                <MiddlePoint X="344" Y="1030" />
+                <Size Width="100" Height="60" />
+                <StatisticalData>
+                  <ProcessingTimeMean>0</ProcessingTimeMean>
+                  <ProcessingTimeDeviation>0</ProcessingTimeDeviation>
+                  <CostFixed>0</CostFixed>
+                  <CostVariable>0</CostVariable>
+                </StatisticalData>
+              </Task>
+              <Task id="(a05ee7f6-82ac-4f3c-be6a-72c8363e7631)">
+                <Name>Desplegar producto en ambiente de producción</Name>
+                <Description />
+                <IPCode>IP-010-370</IPCode>
+                <Status />
+                <TaskType />
+                <IconType>None</IconType>
+                <MiddlePoint X="542" Y="1031" />
+                <Size Width="100" Height="60" />
+                <StatisticalData>
+                  <ProcessingTimeMean>0</ProcessingTimeMean>
+                  <ProcessingTimeDeviation>0</ProcessingTimeDeviation>
+                  <CostFixed>0</CostFixed>
+                  <CostVariable>0</CostVariable>
+                </StatisticalData>
+              </Task>
+              <Task id="(06c8e808-4285-4421-9888-ee53d9c56a84)">
+                <Name>Crear perfiles de usuario</Name>
+                <Description />
+                <IPCode>IP-010-400</IPCode>
+                <Status />
+                <TaskType />
+                <IconType>None</IconType>
+                <MiddlePoint X="663" Y="1031" />
+                <Size Width="100" Height="60" />
+                <StatisticalData>
+                  <ProcessingTimeMean>0</ProcessingTimeMean>
+                  <ProcessingTimeDeviation>0</ProcessingTimeDeviation>
+                  <CostFixed>0</CostFixed>
+                  <CostVariable>0</CostVariable>
+                </StatisticalData>
+              </Task>
+              <Task id="(0694b873-bdf0-4ec6-b6d4-f0613de5654c)">
+                <Name>Generar manuales de usuario y definir requerimientos de capacitación</Name>
+                <Description />
+                <IPCode>IP-010-410</IPCode>
+                <Status />
+                <TaskType />
+                <IconType>None</IconType>
+                <MiddlePoint X="787" Y="1032" />
+                <Size Width="100" Height="60" />
+                <StatisticalData>
+                  <ProcessingTimeMean>0</ProcessingTimeMean>
+                  <ProcessingTimeDeviation>0</ProcessingTimeDeviation>
+                  <CostFixed>0</CostFixed>
+                  <CostVariable>0</CostVariable>
+                </StatisticalData>
+              </Task>
+              <Task id="(5586d2fa-2502-4af1-95f2-46ccd0dfbbee)">
+                <Name>Generar acta de cierre</Name>
+                <Description />
+                <IPCode>IP-010-430</IPCode>
+                <Status />
+                <TaskType />
+                <IconType>None</IconType>
+                <MiddlePoint X="1196" Y="1035" />
+                <Size Width="100" Height="60" />
+                <StatisticalData>
+                  <ProcessingTimeMean>0</ProcessingTimeMean>
+                  <ProcessingTimeDeviation>0</ProcessingTimeDeviation>
+                  <CostFixed>0</CostFixed>
+                  <CostVariable>0</CostVariable>
+                </StatisticalData>
+              </Task>
+              <Task id="(027f58b3-a6e5-4c3a-8e96-60c9134301db)">
+                <Name>Difundir sistema</Name>
+                <Description />
+                <IPCode>IP-010-440</IPCode>
+                <Status />
+                <TaskType />
+                <IconType>None</IconType>
+                <MiddlePoint X="920" Y="1030" />
+                <Size Width="100" Height="60" />
+                <StatisticalData>
+                  <ProcessingTimeMean>0</ProcessingTimeMean>
+                  <ProcessingTimeDeviation>0</ProcessingTimeDeviation>
+                  <CostFixed>0</CostFixed>
+                  <CostVariable>0</CostVariable>
+                </StatisticalData>
+              </Task>
+              <Task id="(b2d1261d-b78e-42ce-879c-08e8006c05f4)">
+                <Name>Configurar y desplegar en ambiente de Desarrollo v.0</Name>
+                <Description />
+                <IPCode>IP-010-450</IPCode>
+                <Status />
+                <TaskType />
+                <IconType>None</IconType>
+                <MiddlePoint X="810" Y="360" />
+                <Size Width="100" Height="60" />
+                <StatisticalData>
+                  <ProcessingTimeMean>0</ProcessingTimeMean>
+                  <ProcessingTimeDeviation>0</ProcessingTimeDeviation>
+                  <CostFixed>0</CostFixed>
+                  <CostVariable>0</CostVariable>
+                </StatisticalData>
+              </Task>
+              <Task id="(a9801697-9c6e-49ba-85d2-00ca7489cfe8)">
+                <Name>Detallar y definir requerimientos técnicos y de negocio (Caract. Funcionales, CU)</Name>
+                <Description />
+                <IPCode>IP-010-460</IPCode>
+                <Status />
+                <TaskType />
+                <IconType>None</IconType>
+                <MiddlePoint X="600" Y="130" />
+                <Size Width="100" Height="60" />
+                <StatisticalData>
+                  <ProcessingTimeMean>0</ProcessingTimeMean>
+                  <ProcessingTimeDeviation>0</ProcessingTimeDeviation>
+                  <CostFixed>0</CostFixed>
+                  <CostVariable>0</CostVariable>
+                </StatisticalData>
+              </Task>
+              <Task id="(c8dfd9d4-e2bd-4fc8-9f6e-b15a41a23b99)">
+                <Name>Gestionar segmento de entregables (GT, MC, CF, CU, DGCU)</Name>
+                <Description />
+                <IPCode>IP-010-470</IPCode>
+                <Status />
+                <TaskType />
+                <IconType>None</IconType>
+                <MiddlePoint X="570" Y="240" />
+                <Size Width="100" Height="60" />
+                <StatisticalData>
+                  <ProcessingTimeMean>0</ProcessingTimeMean>
+                  <ProcessingTimeDeviation>0</ProcessingTimeDeviation>
+                  <CostFixed>0</CostFixed>
+                  <CostVariable>0</CostVariable>
+                </StatisticalData>
+              </Task>
+              <Task id="(9b71c2b3-9e4b-485d-880d-3c2eb36c35a3)">
+                <Name>Especificar CU requeridos</Name>
+                <Description />
+                <IPCode>IP-010-480</IPCode>
+                <Status />
+                <TaskType />
+                <IconType>None</IconType>
+                <MiddlePoint X="1220" Y="50" />
+                <Size Width="100" Height="60" />
+                <StatisticalData>
+                  <ProcessingTimeMean>0</ProcessingTimeMean>
+                  <ProcessingTimeDeviation>0</ProcessingTimeDeviation>
+                  <CostFixed>0</CostFixed>
+                  <CostVariable>0</CostVariable>
+                </StatisticalData>
+              </Task>
+              <Task id="(5aa4566c-f7f6-4f91-98b9-02cb27dd551c)">
+                <Name>Especificar CU requeridos</Name>
+                <Description />
+                <IPCode>IP-010-490</IPCode>
+                <Status />
+                <TaskType />
+                <IconType>None</IconType>
+                <MiddlePoint X="300" Y="720" />
+                <Size Width="100" Height="60" />
+                <StatisticalData>
+                  <ProcessingTimeMean>0</ProcessingTimeMean>
+                  <ProcessingTimeDeviation>0</ProcessingTimeDeviation>
+                  <CostFixed>0</CostFixed>
+                  <CostVariable>0</CostVariable>
+                </StatisticalData>
+              </Task>
+              <Task id="(a06c42f5-82cc-4f9d-bd06-8e4f39071fe1)">
+                <Name>Implementar CU acordados</Name>
+                <Description />
+                <IPCode>IP-010-500</IPCode>
+                <Status />
+                <TaskType />
+                <IconType>None</IconType>
+                <MiddlePoint X="390" Y="660" />
+                <Size Width="100" Height="60" />
+                <StatisticalData>
+                  <ProcessingTimeMean>0</ProcessingTimeMean>
+                  <ProcessingTimeDeviation>0</ProcessingTimeDeviation>
+                  <CostFixed>0</CostFixed>
+                  <CostVariable>0</CostVariable>
+                </StatisticalData>
+              </Task>
+              <Task id="(cfa3c471-d288-4187-904e-a76387c98928)">
+                <Name>Evaluar Casos de Uso</Name>
+                <Description />
+                <IPCode>IP-010-510</IPCode>
+                <Status />
+                <TaskType />
+                <IconType>None</IconType>
+                <MiddlePoint X="516" Y="655" />
+                <Size Width="100" Height="60" />
+                <StatisticalData>
+                  <ProcessingTimeMean>0</ProcessingTimeMean>
+                  <ProcessingTimeDeviation>0</ProcessingTimeDeviation>
+                  <CostFixed>0</CostFixed>
+                  <CostVariable>0</CostVariable>
+                </StatisticalData>
+              </Task>
+              <Task id="(ba1eaebc-b767-43d2-8a55-a5fdfce17b8b)">
+                <Name>Gestionar segmento de entregables (GT, MC, CF, CU, DGCU)</Name>
+                <Description />
+                <IPCode>IP-010-520</IPCode>
+                <Status />
+                <TaskType />
+                <IconType>None</IconType>
+                <MiddlePoint X="435" Y="847" />
+                <Size Width="100" Height="60" />
+                <StatisticalData>
+                  <ProcessingTimeMean>0</ProcessingTimeMean>
+                  <ProcessingTimeDeviation>0</ProcessingTimeDeviation>
+                  <CostFixed>0</CostFixed>
+                  <CostVariable>0</CostVariable>
+                </StatisticalData>
+              </Task>
+              <Task id="(072e9531-5da5-42d7-9085-51800b2b3a03)">
+                <Name>Configurar y desplegar en ambiente de Desarrollo Beta</Name>
+                <Description />
+                <IPCode>IP-010-530</IPCode>
+                <Status />
+                <TaskType />
+                <IconType>None</IconType>
+                <MiddlePoint X="641" Y="656" />
+                <Size Width="100" Height="60" />
+                <StatisticalData>
+                  <ProcessingTimeMean>0</ProcessingTimeMean>
+                  <ProcessingTimeDeviation>0</ProcessingTimeDeviation>
+                  <CostFixed>0</CostFixed>
+                  <CostVariable>0</CostVariable>
+                </StatisticalData>
+              </Task>
+              <Task id="(a5cc67a5-38e6-469c-8a8a-20448af9d14c)">
+                <Name>Gestionar segmento de entregables (GT, MC, CF, CU, DGCU)</Name>
+                <Description />
+                <IPCode>IP-010-540</IPCode>
+                <Status />
+                <TaskType />
+                <IconType>None</IconType>
+                <MiddlePoint X="757" Y="1160" />
+                <Size Width="100" Height="60" />
+                <StatisticalData>
+                  <ProcessingTimeMean>0</ProcessingTimeMean>
+                  <ProcessingTimeDeviation>0</ProcessingTimeDeviation>
+                  <CostFixed>0</CostFixed>
+                  <CostVariable>0</CostVariable>
+                </StatisticalData>
+              </Task>
+              <Task id="(f803764e-b15f-4834-8e2b-36fe4834a3af)">
+                <Name>Definir cronograma para implementación de la solución</Name>
+                <Description />
+                <IPCode>IP-010-550</IPCode>
+                <Status />
+                <TaskType />
+                <IconType>None</IconType>
+                <MiddlePoint X="1010" Y="130" />
+                <Size Width="100" Height="60" />
+                <StatisticalData>
+                  <ProcessingTimeMean>0</ProcessingTimeMean>
+                  <ProcessingTimeDeviation>0</ProcessingTimeDeviation>
+                  <CostFixed>0</CostFixed>
+                  <CostVariable>0</CostVariable>
+                </StatisticalData>
+              </Task>
+              <Task id="(8c1713d1-081a-48e8-9085-3e425c91d6ca)">
+                <Name>Refinar requerimientos técnicos y de negocio (Caract. Funcionales, CU)</Name>
+                <Description />
+                <IPCode>IP-010-560</IPCode>
+                <Status />
+                <TaskType />
+                <IconType>None</IconType>
+                <MiddlePoint X="290" Y="500" />
+                <Size Width="100" Height="60" />
+                <StatisticalData>
+                  <ProcessingTimeMean>0</ProcessingTimeMean>
+                  <ProcessingTimeDeviation>0</ProcessingTimeDeviation>
+                  <CostFixed>0</CostFixed>
+                  <CostVariable>0</CostVariable>
+                </StatisticalData>
+              </Task>
+              <Task id="(b33cd9da-d402-4df9-9552-ba2519a5d14e)">
+                <Name>Refinar requerimientos técnicos y de negocio (Caract. Funcionales, CU)</Name>
+                <Description />
+                <IPCode>IP-010-570</IPCode>
+                <Status />
+                <TaskType />
+                <IconType>None</IconType>
+                <MiddlePoint X="302" Y="808" />
+                <Size Width="100" Height="60" />
+                <StatisticalData>
+                  <ProcessingTimeMean>0</ProcessingTimeMean>
+                  <ProcessingTimeDeviation>0</ProcessingTimeDeviation>
+                  <CostFixed>0</CostFixed>
+                  <CostVariable>0</CostVariable>
+                </StatisticalData>
+              </Task>
+              <Task id="(61c4068a-2483-4844-832c-27d640ac3d0a)">
+                <Name>Especificar CU requeridos</Name>
+                <Description />
+                <IPCode>IP-010-580</IPCode>
+                <Status />
+                <TaskType />
+                <IconType>None</IconType>
+                <MiddlePoint X="207" Y="1110" />
+                <Size Width="100" Height="60" />
+                <StatisticalData>
+                  <ProcessingTimeMean>0</ProcessingTimeMean>
+                  <ProcessingTimeDeviation>0</ProcessingTimeDeviation>
+                  <CostFixed>0</CostFixed>
+                  <CostVariable>0</CostVariable>
+                </StatisticalData>
+              </Task>
+              <Task id="(57a639c1-49b1-4e8f-b111-acf0afc1f4e1)">
+                <Name>Implementar CU acordados</Name>
+                <Description />
+                <IPCode>IP-010-590</IPCode>
+                <Status />
+                <TaskType />
+                <IconType>None</IconType>
+                <MiddlePoint X="326" Y="1111" />
+                <Size Width="100" Height="60" />
+                <StatisticalData>
+                  <ProcessingTimeMean>0</ProcessingTimeMean>
+                  <ProcessingTimeDeviation>0</ProcessingTimeDeviation>
+                  <CostFixed>0</CostFixed>
+                  <CostVariable>0</CostVariable>
+                </StatisticalData>
+              </Task>
+              <Task id="(f9ade9ff-ac66-4a2e-91fa-bcbaf30ec9c3)">
+                <Name>Evaluar Casos de Uso</Name>
+                <Description />
+                <IPCode>IP-010-600</IPCode>
+                <Status />
+                <TaskType />
+                <IconType>None</IconType>
+                <MiddlePoint X="444" Y="1113" />
+                <Size Width="100" Height="60" />
+                <StatisticalData>
+                  <ProcessingTimeMean>0</ProcessingTimeMean>
+                  <ProcessingTimeDeviation>0</ProcessingTimeDeviation>
+                  <CostFixed>0</CostFixed>
+                  <CostVariable>0</CostVariable>
+                </StatisticalData>
+              </Task>
+              <Task id="(3c419a08-247c-4a36-afca-3a3dbdb96018)">
+                <Name>Diseñar Diagrama Global de Casos de Uso (DGCU)</Name>
+                <Description />
+                <IPCode>IP-010-610</IPCode>
+                <Status />
+                <TaskType />
+                <IconType>None</IconType>
+                <MiddlePoint X="1130" Y="130" />
+                <Size Width="100" Height="60" />
+                <StatisticalData>
+                  <ProcessingTimeMean>0</ProcessingTimeMean>
+                  <ProcessingTimeDeviation>0</ProcessingTimeDeviation>
+                  <CostFixed>0</CostFixed>
+                  <CostVariable>0</CostVariable>
+                </StatisticalData>
+              </Task>
+              <Task id="(d2680445-db37-4f77-b373-dd3c11c1b336)">
+                <Name>Obtener y gestionar versiones de productos </Name>
+                <Description />
+                <IPCode>IP-010-620</IPCode>
+                <Status />
+                <TaskType />
+                <IconType>None</IconType>
+                <MiddlePoint X="400" Y="360" />
+                <Size Width="100" Height="60" />
+                <StatisticalData>
+                  <ProcessingTimeMean>0</ProcessingTimeMean>
+                  <ProcessingTimeDeviation>0</ProcessingTimeDeviation>
+                  <CostFixed>0</CostFixed>
+                  <CostVariable>0</CostVariable>
+                </StatisticalData>
+              </Task>
+            </Tasks>
+            <Gateways>
+              <Gateway id="(f32658ae-f97c-4603-9a9e-46c3697c1c06)">
+                <Name>Hito Revisión cierre fase Transición (100% PT - 100% AS)</Name>
+                <Description />
+                <GatewayType>DataBasedXOR</GatewayType>
+                <MiddlePoint X="1095" Y="1034" />
+                <Size Width="44" Height="44" />
+              </Gateway>
+              <Gateway id="(69a09cdd-cfb7-41c0-b318-c6c4d6af86a7)">
+                <Name />
+                <Description />
+                <GatewayType>ParallelAND</GatewayType>
+                <MiddlePoint X="131" Y="444" />
+                <Size Width="44" Height="44" />
+              </Gateway>
+              <Gateway id="(82a2d26a-c016-4a3a-8d40-eaf1091f8178)">
+                <Name>Hito Revisión cierre fase Incepción (AVANCE &gt;=70% PT - &gt;=10% AS) ?</Name>
+                <Description />
+                <GatewayType>DataBasedXOR</GatewayType>
+                <MiddlePoint X="1340" Y="130" />
+                <Size Width="44" Height="44" />
+              </Gateway>
+              <Gateway id="(ae5ef136-eeea-498a-8abd-281b396c426a)">
+                <Name />
+                <Description />
+                <GatewayType>ParallelAND</GatewayType>
+                <MiddlePoint X="180" Y="130" />
+                <Size Width="44" Height="44" />
+              </Gateway>
+              <Gateway id="(52887bdc-6da7-4b3d-9f6c-4a58f7aafa8b)">
+                <Name />
+                <Description />
+                <GatewayType>ParallelAND</GatewayType>
+                <MiddlePoint X="1220" Y="130" />
+                <Size Width="44" Height="44" />
+              </Gateway>
+              <Gateway id="(c4f1c081-e28b-441e-9faf-14dab7dbf2e5)">
+                <Name />
+                <Description />
+                <GatewayType>ParallelAND</GatewayType>
+                <MiddlePoint X="1280" Y="130" />
+                <Size Width="44" Height="44" />
+              </Gateway>
+              <Gateway id="(3d87493a-4873-463f-94b5-7dd3067c9344)">
+                <Name>Hito Revisión cierre fase Elaboración (AVANCE &gt;=80% PT - &gt;=60% AS)?</Name>
+                <Description />
+                <GatewayType>DataBasedXOR</GatewayType>
+                <MiddlePoint X="1011" Y="432" />
+                <Size Width="44" Height="44" />
+              </Gateway>
+              <Gateway id="(d15d6ebf-4b44-41e5-84eb-15271b41a986)">
+                <Name />
+                <Description />
+                <GatewayType>ParallelAND</GatewayType>
+                <MiddlePoint X="900" Y="430" />
+                <Size Width="44" Height="44" />
+              </Gateway>
+              <Gateway id="(58e7bf01-4b4f-4cb3-8205-3e5da19b41ae)">
+                <Name />
+                <Description />
+                <GatewayType>ParallelAND</GatewayType>
+                <MiddlePoint X="125" Y="734" />
+                <Size Width="44" Height="44" />
+              </Gateway>
+              <Gateway id="(d269aacb-b523-4f58-801f-a08ca8999f37)">
+                <Name>Hito Revisión cierre fase Elaboración (AVANCE &gt;=95% PT - &gt;=90% AS)</Name>
+                <Description />
+                <GatewayType>DataBasedXOR</GatewayType>
+                <MiddlePoint X="850" Y="720" />
+                <Size Width="44" Height="44" />
+              </Gateway>
+              <Gateway id="(7055f554-bcbb-4b3f-8dc1-49ee81b83369)">
+                <Name />
+                <Description />
+                <GatewayType>ParallelAND</GatewayType>
+                <MiddlePoint X="734" Y="720" />
+                <Size Width="44" Height="44" />
+              </Gateway>
+              <Gateway id="(fdd8e3b5-684e-43c4-b494-321690eb790c)">
+                <Name />
+                <Description />
+                <GatewayType>ParallelAND</GatewayType>
+                <MiddlePoint X="132" Y="1027" />
+                <Size Width="44" Height="44" />
+              </Gateway>
+              <Gateway id="(3877e0e9-82fa-45b5-ade2-ea556196cea1)">
+                <Name />
+                <Description />
+                <GatewayType>ParallelAND</GatewayType>
+                <MiddlePoint X="1017" Y="1034" />
+                <Size Width="44" Height="44" />
+              </Gateway>
+              <Gateway id="(eceecd96-01f3-4b15-9d52-ff625d4ba7b6)">
+                <Name />
+                <Description />
+                <GatewayType>ParallelAND</GatewayType>
+                <MiddlePoint X="212" Y="475" />
+                <Size Width="44" Height="44" />
+              </Gateway>
+              <Gateway id="(44778e37-7e72-41d4-a15d-3b23f96d9327)">
+                <Name />
+                <Description />
+                <GatewayType>ParallelAND</GatewayType>
+                <MiddlePoint X="200" Y="720" />
+                <Size Width="44" Height="44" />
+              </Gateway>
+              <Gateway id="(849d3cdf-1ef4-4861-882a-5b3667056b9e)">
+                <Name />
+                <Description />
+                <GatewayType>ParallelAND</GatewayType>
+                <MiddlePoint X="208" Y="1027" />
+                <Size Width="44" Height="44" />
+              </Gateway>
+              <Gateway id="(293cbf7c-ad3e-44d9-ac1a-09b3b022b523)">
+                <Name />
+                <Description />
+                <GatewayType>ParallelAND</GatewayType>
+                <MiddlePoint X="445" Y="1031" />
+                <Size Width="44" Height="44" />
+              </Gateway>
+            </Gateways>
+            <StartEvents>
+              <StartEvent id="(d606fef7-4318-4c08-a92f-6ac92c36e33f)">
+                <Name>INICIO</Name>
+                <Description />
+                <Trigger>No</Trigger>
+                <MiddlePoint X="100" Y="130" />
+                <Size Width="28" Height="28" />
+                <StatisticalData>
+                  <ProcessingTimeMean>0</ProcessingTimeMean>
+                  <ProcessingTimeDeviation>0</ProcessingTimeDeviation>
+                </StatisticalData>
+              </StartEvent>
+            </StartEvents>
+            <IntermediateEvents />
+            <EndEvents>
+              <EndEvent id="(202eef91-a524-49e7-ad89-5c32620f9108)">
+                <Name />
+                <Description />
+                <ReturnValue>No</ReturnValue>
+                <MiddlePoint X="1279" Y="1035" />
+                <Size Width="28" Height="28" />
+              </EndEvent>
+            </EndEvents>
+            <Annotations>
+              <Annotation id="(884f374c-c559-4efc-b738-af1872490742)">
+                <Name>DISPARADOR (Proceso de validación por Comité Informático)</Name>
+                <Description />
+                <MiddlePoint X="110" Y="40" />
+                <Size Width="0" Height="0" />
+              </Annotation>
+            </Annotations>
+            <Dataobjects />
+            <Groups />
+            <SubProcesses />
+            <SequenceFlows>
+              <SequenceFlow id="(f7c13ce1-f411-4bb8-9ff5-219eba64f3a4)">
+                <Name />
+                <Description />
+                <Source>(c35535c1-3324-4be0-a2c6-4ea223ece88a)</Source>
+                <Target>(27b3f37f-9d70-480c-87e6-41a6b068640a)</Target>
+                <Path>
+                  <PathElement X="340" Y="130" />
+                  <PathElement X="390" Y="130" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(74a16cf6-39d9-4d74-bac7-d9c22ed67b5c)">
+                <Name />
+                <Description />
+                <Source>(a05ee7f6-82ac-4f3c-be6a-72c8363e7631)</Source>
+                <Target>(06c8e808-4285-4421-9888-ee53d9c56a84)</Target>
+                <Path>
+                  <PathElement X="592" Y="1031" />
+                  <PathElement X="613" Y="1031" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(60ada50c-b177-45dd-8d78-2d9f4854d0c1)">
+                <Name />
+                <Description />
+                <Source>(06c8e808-4285-4421-9888-ee53d9c56a84)</Source>
+                <Target>(0694b873-bdf0-4ec6-b6d4-f0613de5654c)</Target>
+                <Path>
+                  <PathElement X="713" Y="1031" />
+                  <PathElement X="737" Y="1032" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(458e2f45-18a1-4718-b7bd-ace1f11717f5)">
+                <Name />
+                <Description />
+                <Source>(5586d2fa-2502-4af1-95f2-46ccd0dfbbee)</Source>
+                <Target>(202eef91-a524-49e7-ad89-5c32620f9108)</Target>
+                <Path>
+                  <PathElement X="1246" Y="1035" />
+                  <PathElement X="1265" Y="1035" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(b25f9d4a-a1fc-4ba5-897e-2a634a3398d3)">
+                <Name />
+                <Description />
+                <Source>(0694b873-bdf0-4ec6-b6d4-f0613de5654c)</Source>
+                <Target>(027f58b3-a6e5-4c3a-8e96-60c9134301db)</Target>
+                <Path>
+                  <PathElement X="837" Y="1032" />
+                  <PathElement X="870" Y="1030" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(271ae155-f74d-448f-8acc-6857cc91accc)">
+                <Name>SI</Name>
+                <Description />
+                <Source>(f32658ae-f97c-4603-9a9e-46c3697c1c06)</Source>
+                <Target>(5586d2fa-2502-4af1-95f2-46ccd0dfbbee)</Target>
+                <Path>
+                  <PathElement X="1117" Y="1034" />
+                  <PathElement X="1146" Y="1035" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(e89580e1-ec2a-4881-b4b5-7aad6bf0119e)">
+                <Name />
+                <Description />
+                <Source>(27b3f37f-9d70-480c-87e6-41a6b068640a)</Source>
+                <Target>(a9801697-9c6e-49ba-85d2-00ca7489cfe8)</Target>
+                <Path>
+                  <PathElement X="390" Y="130" />
+                  <PathElement X="380" Y="130" />
+                  <PathElement X="380" Y="130" />
+                  <PathElement X="550" Y="130" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(6c817cd2-58cd-4557-a464-500c17771dc9)">
+                <Name />
+                <Description />
+                <Source>(52887bdc-6da7-4b3d-9f6c-4a58f7aafa8b)</Source>
+                <Target>(9b71c2b3-9e4b-485d-880d-3c2eb36c35a3)</Target>
+                <Path>
+                  <PathElement X="1220" Y="108" />
+                  <PathElement X="1220" Y="80" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(cf4d1998-dfd1-46c2-ac83-a37f5a4a4088)">
+                <Name />
+                <Description />
+                <Source>(69a09cdd-cfb7-41c0-b318-c6c4d6af86a7)</Source>
+                <Target>(5c1e8ba8-1f7e-4349-a24e-4279090bdf6a)</Target>
+                <Path>
+                  <PathElement X="131" Y="466" />
+                  <PathElement X="133" Y="498" />
+                  <PathElement X="133" Y="546" />
+                  <PathElement X="412" Y="543" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(5ec2ed69-4ead-4c8f-9bfb-c9476310779b)">
+                <Name />
+                <Description />
+                <Source>(15d7f3d4-8649-429b-aeff-e22bff00ea8c)</Source>
+                <Target>(c93e4e6d-bed7-42e4-873c-58061d0f1090)</Target>
+                <Path>
+                  <PathElement X="590" Y="360" />
+                  <PathElement X="630" Y="360" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(09e7e732-bb5d-4084-97e0-b9b52fad12af)">
+                <Name />
+                <Description />
+                <Source>(c93e4e6d-bed7-42e4-873c-58061d0f1090)</Source>
+                <Target>(b2d1261d-b78e-42ce-879c-08e8006c05f4)</Target>
+                <Path>
+                  <PathElement X="730" Y="360" />
+                  <PathElement X="760" Y="360" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(ce23f956-4536-431b-a49c-891bbeb02868)">
+                <Name />
+                <Description />
+                <Source>(5c1e8ba8-1f7e-4349-a24e-4279090bdf6a)</Source>
+                <Target>(d15d6ebf-4b44-41e5-84eb-15271b41a986)</Target>
+                <Path>
+                  <PathElement X="512" Y="543" />
+                  <PathElement X="740" Y="540" />
+                  <PathElement X="880" Y="450" />
+                  <PathElement X="889" Y="441" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(3291faca-5ffd-4f62-b4f6-2d2970c59bac)">
+                <Name />
+                <Description />
+                <Source>(b2d1261d-b78e-42ce-879c-08e8006c05f4)</Source>
+                <Target>(d15d6ebf-4b44-41e5-84eb-15271b41a986)</Target>
+                <Path>
+                  <PathElement X="860" Y="360" />
+                  <PathElement X="900" Y="360" />
+                  <PathElement X="900" Y="380" />
+                  <PathElement X="900" Y="408" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(04eb7f06-7fa1-42f5-af09-dfc43e8f6285)">
+                <Name />
+                <Description />
+                <Source>(d15d6ebf-4b44-41e5-84eb-15271b41a986)</Source>
+                <Target>(3d87493a-4873-463f-94b5-7dd3067c9344)</Target>
+                <Path>
+                  <PathElement X="922" Y="430" />
+                  <PathElement X="989" Y="432" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(7751e28d-3ef0-42ce-99ef-fbba75b1f5d6)">
+                <Name />
+                <Description />
+                <Source>(cfa3c471-d288-4187-904e-a76387c98928)</Source>
+                <Target>(072e9531-5da5-42d7-9085-51800b2b3a03)</Target>
+                <Path>
+                  <PathElement X="566" Y="655" />
+                  <PathElement X="591" Y="656" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(c762041b-f244-4e1f-9f20-99ff3a1dde63)">
+                <Name />
+                <Description />
+                <Source>(ba1eaebc-b767-43d2-8a55-a5fdfce17b8b)</Source>
+                <Target>(7055f554-bcbb-4b3f-8dc1-49ee81b83369)</Target>
+                <Path>
+                  <PathElement X="485" Y="847" />
+                  <PathElement X="732" Y="846" />
+                  <PathElement X="734" Y="787" />
+                  <PathElement X="734" Y="742" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(e503184f-7551-497d-9f01-31670546b075)">
+                <Name />
+                <Description />
+                <Source>(7055f554-bcbb-4b3f-8dc1-49ee81b83369)</Source>
+                <Target>(d269aacb-b523-4f58-801f-a08ca8999f37)</Target>
+                <Path>
+                  <PathElement X="756" Y="720" />
+                  <PathElement X="828" Y="720" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(e802d542-214e-4bb1-bc13-cdf90e4ea511)">
+                <Name />
+                <Description />
+                <Source>(072e9531-5da5-42d7-9085-51800b2b3a03)</Source>
+                <Target>(7055f554-bcbb-4b3f-8dc1-49ee81b83369)</Target>
+                <Path>
+                  <PathElement X="691" Y="656" />
+                  <PathElement X="736" Y="658" />
+                  <PathElement X="737" Y="659" />
+                  <PathElement X="734" Y="698" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(0a093849-36c7-47f5-b5e3-aa02759bfac6)">
+                <Name />
+                <Description />
+                <Source>(58e7bf01-4b4f-4cb3-8205-3e5da19b41ae)</Source>
+                <Target>(ba1eaebc-b767-43d2-8a55-a5fdfce17b8b)</Target>
+                <Path>
+                  <PathElement X="125" Y="756" />
+                  <PathElement X="124" Y="848" />
+                  <PathElement X="179" Y="848" />
+                  <PathElement X="385" Y="847" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(8e56e551-8b49-43e3-b328-067daaf54de3)">
+                <Name />
+                <Description />
+                <Source>(a06c42f5-82cc-4f9d-bd06-8e4f39071fe1)</Source>
+                <Target>(cfa3c471-d288-4187-904e-a76387c98928)</Target>
+                <Path>
+                  <PathElement X="440" Y="660" />
+                  <PathElement X="466" Y="655" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(de8784ed-0bf8-44df-aaca-801269e8ae1c)">
+                <Name />
+                <Description />
+                <Source>(fdd8e3b5-684e-43c4-b494-321690eb790c)</Source>
+                <Target>(a5cc67a5-38e6-469c-8a8a-20448af9d14c)</Target>
+                <Path>
+                  <PathElement X="132" Y="1049" />
+                  <PathElement X="131" Y="1159" />
+                  <PathElement X="189" Y="1160" />
+                  <PathElement X="707" Y="1160" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(7aa2fe83-3827-48fa-81c2-142fc130c835)">
+                <Name />
+                <Description />
+                <Source>(a5cc67a5-38e6-469c-8a8a-20448af9d14c)</Source>
+                <Target>(3877e0e9-82fa-45b5-ade2-ea556196cea1)</Target>
+                <Path>
+                  <PathElement X="807" Y="1160" />
+                  <PathElement X="934" Y="1162" />
+                  <PathElement X="1016" Y="1160" />
+                  <PathElement X="1017" Y="1056" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(7c989db0-6754-4582-91eb-546c0a30e2d9)">
+                <Name />
+                <Description />
+                <Source>(027f58b3-a6e5-4c3a-8e96-60c9134301db)</Source>
+                <Target>(3877e0e9-82fa-45b5-ade2-ea556196cea1)</Target>
+                <Path>
+                  <PathElement X="970" Y="1030" />
+                  <PathElement X="995" Y="1034" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(33338f27-624a-45d8-9e33-de31ae18f491)">
+                <Name />
+                <Description />
+                <Source>(3877e0e9-82fa-45b5-ade2-ea556196cea1)</Source>
+                <Target>(f32658ae-f97c-4603-9a9e-46c3697c1c06)</Target>
+                <Path>
+                  <PathElement X="1039" Y="1034" />
+                  <PathElement X="1073" Y="1034" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(a0e6dea7-73f6-45e6-94cc-0c5ac2ac67e4)">
+                <Name>NO</Name>
+                <Description />
+                <Source>(f32658ae-f97c-4603-9a9e-46c3697c1c06)</Source>
+                <Target>(fdd8e3b5-684e-43c4-b494-321690eb790c)</Target>
+                <Path>
+                  <PathElement X="1095" Y="1012" />
+                  <PathElement X="1056" Y="938" />
+                  <PathElement X="184" Y="940" />
+                  <PathElement X="143" Y="1016" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(91597516-dbcc-42d9-af32-24456fad29c8)">
+                <Name />
+                <Description />
+                <Source>(7506a8ef-4f6a-4baa-9f02-a88119a12571)</Source>
+                <Target>(f803764e-b15f-4834-8e2b-36fe4834a3af)</Target>
+                <Path>
+                  <PathElement X="940" Y="130" />
+                  <PathElement X="960" Y="130" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(37fe96a2-b437-4f08-a007-42667462021e)">
+                <Name />
+                <Description />
+                <Source>(c4f1c081-e28b-441e-9faf-14dab7dbf2e5)</Source>
+                <Target>(82a2d26a-c016-4a3a-8d40-eaf1091f8178)</Target>
+                <Path>
+                  <PathElement X="1302" Y="130" />
+                  <PathElement X="1318" Y="130" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(e457221c-d656-46b7-bcd9-5cc31635f5f6)">
+                <Name>SI</Name>
+                <Description />
+                <Source>(82a2d26a-c016-4a3a-8d40-eaf1091f8178)</Source>
+                <Target>(69a09cdd-cfb7-41c0-b318-c6c4d6af86a7)</Target>
+                <Path>
+                  <PathElement X="1340" Y="152" />
+                  <PathElement X="1340" Y="280" />
+                  <PathElement X="131" Y="282" />
+                  <PathElement X="131" Y="422" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(0445d898-5343-4c8f-8ff8-f1b10253b7dd)">
+                <Name />
+                <Description />
+                <Source>(c8dfd9d4-e2bd-4fc8-9f6e-b15a41a23b99)</Source>
+                <Target>(c4f1c081-e28b-441e-9faf-14dab7dbf2e5)</Target>
+                <Path>
+                  <PathElement X="620" Y="240" />
+                  <PathElement X="785" Y="202" />
+                  <PathElement X="1280" Y="200" />
+                  <PathElement X="1280" Y="152" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(ec6984e5-1fee-48b6-bba7-34fc7bde5ceb)">
+                <Name>SI</Name>
+                <Description />
+                <Source>(3d87493a-4873-463f-94b5-7dd3067c9344)</Source>
+                <Target>(58e7bf01-4b4f-4cb3-8205-3e5da19b41ae)</Target>
+                <Path>
+                  <PathElement X="1011" Y="454" />
+                  <PathElement X="1010" Y="580" />
+                  <PathElement X="123" Y="578" />
+                  <PathElement X="125" Y="712" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(6a805ad3-cd2e-44c7-8da1-558d6418f6ce)">
+                <Name>SI</Name>
+                <Description />
+                <Source>(d269aacb-b523-4f58-801f-a08ca8999f37)</Source>
+                <Target>(fdd8e3b5-684e-43c4-b494-321690eb790c)</Target>
+                <Path>
+                  <PathElement X="850" Y="742" />
+                  <PathElement X="846" Y="889" />
+                  <PathElement X="192" Y="888" />
+                  <PathElement X="132" Y="1005" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(19687f23-fbd7-4d8f-bda4-20a98eb718a9)">
+                <Name>NO</Name>
+                <Description />
+                <Source>(d269aacb-b523-4f58-801f-a08ca8999f37)</Source>
+                <Target>(58e7bf01-4b4f-4cb3-8205-3e5da19b41ae)</Target>
+                <Path>
+                  <PathElement X="850" Y="698" />
+                  <PathElement X="847" Y="610" />
+                  <PathElement X="183" Y="608" />
+                  <PathElement X="125" Y="712" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(f50f767b-6c10-4e46-a9dc-5f1a68911a93)">
+                <Name>NO</Name>
+                <Description />
+                <Source>(3d87493a-4873-463f-94b5-7dd3067c9344)</Source>
+                <Target>(69a09cdd-cfb7-41c0-b318-c6c4d6af86a7)</Target>
+                <Path>
+                  <PathElement X="1011" Y="410" />
+                  <PathElement X="1010" Y="310" />
+                  <PathElement X="184" Y="316" />
+                  <PathElement X="131" Y="422" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(1e5d7ee5-37f5-495f-9fbc-a8d897c77119)">
+                <Name />
+                <Description />
+                <Source>(69a09cdd-cfb7-41c0-b318-c6c4d6af86a7)</Source>
+                <Target>(eceecd96-01f3-4b15-9d52-ff625d4ba7b6)</Target>
+                <Path>
+                  <PathElement X="153" Y="444" />
+                  <PathElement X="172" Y="444" />
+                  <PathElement X="172" Y="471" />
+                  <PathElement X="190" Y="475" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(90c94c06-3bd4-474c-8e14-e7d5959a4533)">
+                <Name />
+                <Description />
+                <Source>(eceecd96-01f3-4b15-9d52-ff625d4ba7b6)</Source>
+                <Target>(446046e7-0663-46d3-a001-d2a9c8a55a4e)</Target>
+                <Path>
+                  <PathElement X="212" Y="453" />
+                  <PathElement X="212" Y="462" />
+                  <PathElement X="210" Y="420" />
+                  <PathElement X="240" Y="420" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(3d2e1903-e9fc-4904-8040-dc599eb1f2f3)">
+                <Name />
+                <Description />
+                <Source>(eceecd96-01f3-4b15-9d52-ff625d4ba7b6)</Source>
+                <Target>(8c1713d1-081a-48e8-9085-3e425c91d6ca)</Target>
+                <Path>
+                  <PathElement X="212" Y="497" />
+                  <PathElement X="213" Y="509" />
+                  <PathElement X="228" Y="509" />
+                  <PathElement X="240" Y="500" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(1c5d1699-b2cd-456c-bd91-76dc1c471f5b)">
+                <Name />
+                <Description />
+                <Source>(58e7bf01-4b4f-4cb3-8205-3e5da19b41ae)</Source>
+                <Target>(44778e37-7e72-41d4-a15d-3b23f96d9327)</Target>
+                <Path>
+                  <PathElement X="147" Y="734" />
+                  <PathElement X="178" Y="720" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(382a101f-0c05-476b-b2ed-f9e5137940a5)">
+                <Name />
+                <Description />
+                <Source>(44778e37-7e72-41d4-a15d-3b23f96d9327)</Source>
+                <Target>(b33cd9da-d402-4df9-9552-ba2519a5d14e)</Target>
+                <Path>
+                  <PathElement X="200" Y="742" />
+                  <PathElement X="200" Y="740" />
+                  <PathElement X="203" Y="806" />
+                  <PathElement X="252" Y="808" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(7da19eae-f040-47bc-9c8f-61d61685e424)">
+                <Name />
+                <Description />
+                <Source>(5aa4566c-f7f6-4f91-98b9-02cb27dd551c)</Source>
+                <Target>(a06c42f5-82cc-4f9d-bd06-8e4f39071fe1)</Target>
+                <Path>
+                  <PathElement X="350" Y="720" />
+                  <PathElement X="388" Y="722" />
+                  <PathElement X="388" Y="692" />
+                  <PathElement X="390" Y="690" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(22d20b8b-ce19-4e26-831c-fb64a2872110)">
+                <Name />
+                <Description />
+                <Source>(fdd8e3b5-684e-43c4-b494-321690eb790c)</Source>
+                <Target>(849d3cdf-1ef4-4861-882a-5b3667056b9e)</Target>
+                <Path>
+                  <PathElement X="154" Y="1027" />
+                  <PathElement X="186" Y="1027" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(1cac1229-8b23-4f43-8180-cba602c043ee)">
+                <Name />
+                <Description />
+                <Source>(61c4068a-2483-4844-832c-27d640ac3d0a)</Source>
+                <Target>(57a639c1-49b1-4e8f-b111-acf0afc1f4e1)</Target>
+                <Path>
+                  <PathElement X="257" Y="1110" />
+                  <PathElement X="276" Y="1111" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(4d0459a7-76c5-492d-a330-59a3425d8999)">
+                <Name />
+                <Description />
+                <Source>(57a639c1-49b1-4e8f-b111-acf0afc1f4e1)</Source>
+                <Target>(f9ade9ff-ac66-4a2e-91fa-bcbaf30ec9c3)</Target>
+                <Path>
+                  <PathElement X="376" Y="1111" />
+                  <PathElement X="394" Y="1113" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(67ebacb5-ce84-47fd-a1e7-05fbdaea3482)">
+                <Name />
+                <Description />
+                <Source>(849d3cdf-1ef4-4861-882a-5b3667056b9e)</Source>
+                <Target>(61c4068a-2483-4844-832c-27d640ac3d0a)</Target>
+                <Path>
+                  <PathElement X="208" Y="1049" />
+                  <PathElement X="207" Y="1080" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(a65e1eb1-395a-400e-a9cb-519f08998928)">
+                <Name />
+                <Description />
+                <Source>(849d3cdf-1ef4-4861-882a-5b3667056b9e)</Source>
+                <Target>(39ed3d3e-37de-4e2a-9310-273437ead116)</Target>
+                <Path>
+                  <PathElement X="230" Y="1027" />
+                  <PathElement X="294" Y="1030" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(10ff482d-95d7-4c98-9dc1-405ce48493b7)">
+                <Name />
+                <Description />
+                <Source>(f9ade9ff-ac66-4a2e-91fa-bcbaf30ec9c3)</Source>
+                <Target>(293cbf7c-ad3e-44d9-ac1a-09b3b022b523)</Target>
+                <Path>
+                  <PathElement X="444" Y="1083" />
+                  <PathElement X="445" Y="1053" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(1fccf512-3eb1-44ce-9721-64d69777de35)">
+                <Name />
+                <Description />
+                <Source>(39ed3d3e-37de-4e2a-9310-273437ead116)</Source>
+                <Target>(293cbf7c-ad3e-44d9-ac1a-09b3b022b523)</Target>
+                <Path>
+                  <PathElement X="394" Y="1030" />
+                  <PathElement X="423" Y="1031" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(8356ea68-743f-47ac-9798-4f3a7978c261)">
+                <Name />
+                <Description />
+                <Source>(293cbf7c-ad3e-44d9-ac1a-09b3b022b523)</Source>
+                <Target>(a05ee7f6-82ac-4f3c-be6a-72c8363e7631)</Target>
+                <Path>
+                  <PathElement X="467" Y="1031" />
+                  <PathElement X="492" Y="1031" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(6184bf96-9651-4154-a4ef-3ec91402e3ef)">
+                <Name />
+                <Description />
+                <Source>(a9801697-9c6e-49ba-85d2-00ca7489cfe8)</Source>
+                <Target>(e79f140c-0b76-4493-b927-1540eff659d7)</Target>
+                <Path>
+                  <PathElement X="650" Y="130" />
+                  <PathElement X="690" Y="130" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(053ee902-2fdb-4860-92cf-67d3982a364c)">
+                <Name />
+                <Description />
+                <Source>(8c1713d1-081a-48e8-9085-3e425c91d6ca)</Source>
+                <Target>(446046e7-0663-46d3-a001-d2a9c8a55a4e)</Target>
+                <Path>
+                  <PathElement X="290" Y="470" />
+                  <PathElement X="290" Y="450" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(566f23aa-d9b7-48b2-ada1-959437e0d6dd)">
+                <Name />
+                <Description />
+                <Source>(f803764e-b15f-4834-8e2b-36fe4834a3af)</Source>
+                <Target>(3c419a08-247c-4a36-afca-3a3dbdb96018)</Target>
+                <Path>
+                  <PathElement X="1060" Y="130" />
+                  <PathElement X="1080" Y="130" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(1f1ed3cd-b849-4006-b003-7d14fd7fb290)">
+                <Name />
+                <Description />
+                <Source>(3c419a08-247c-4a36-afca-3a3dbdb96018)</Source>
+                <Target>(52887bdc-6da7-4b3d-9f6c-4a58f7aafa8b)</Target>
+                <Path>
+                  <PathElement X="1180" Y="130" />
+                  <PathElement X="1198" Y="130" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(0ade818a-020a-41cd-bea4-128fbdadf26b)">
+                <Name />
+                <Description />
+                <Source>(52887bdc-6da7-4b3d-9f6c-4a58f7aafa8b)</Source>
+                <Target>(c4f1c081-e28b-441e-9faf-14dab7dbf2e5)</Target>
+                <Path>
+                  <PathElement X="1242" Y="130" />
+                  <PathElement X="1258" Y="130" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(ffe6412c-0e3b-4d88-90eb-69e6626b279d)">
+                <Name />
+                <Description />
+                <Source>(69a09cdd-cfb7-41c0-b318-c6c4d6af86a7)</Source>
+                <Target>(d2680445-db37-4f77-b373-dd3c11c1b336)</Target>
+                <Path>
+                  <PathElement X="142" Y="433" />
+                  <PathElement X="190" Y="360" />
+                  <PathElement X="250" Y="360" />
+                  <PathElement X="350" Y="360" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(f9be3a4d-e469-4cb6-986d-3577c1c65ff7)">
+                <Name />
+                <Description />
+                <Source>(446046e7-0663-46d3-a001-d2a9c8a55a4e)</Source>
+                <Target>(d2680445-db37-4f77-b373-dd3c11c1b336)</Target>
+                <Path>
+                  <PathElement X="340" Y="420" />
+                  <PathElement X="400" Y="420" />
+                  <PathElement X="400" Y="410" />
+                  <PathElement X="400" Y="390" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(547ac574-a95a-4ba2-94c3-26439e744144)">
+                <Name />
+                <Description />
+                <Source>(d2680445-db37-4f77-b373-dd3c11c1b336)</Source>
+                <Target>(15d7f3d4-8649-429b-aeff-e22bff00ea8c)</Target>
+                <Path>
+                  <PathElement X="450" Y="360" />
+                  <PathElement X="490" Y="360" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(d3051346-356f-4b73-a210-6cbc77474aef)">
+                <Name />
+                <Description />
+                <Source>(ae5ef136-eeea-498a-8abd-281b396c426a)</Source>
+                <Target>(c35535c1-3324-4be0-a2c6-4ea223ece88a)</Target>
+                <Path>
+                  <PathElement X="202" Y="130" />
+                  <PathElement X="240" Y="130" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(a3eaa0b9-94ca-4c4e-8981-e820ac56149e)">
+                <Name />
+                <Description />
+                <Source>(d606fef7-4318-4c08-a92f-6ac92c36e33f)</Source>
+                <Target>(ae5ef136-eeea-498a-8abd-281b396c426a)</Target>
+                <Path>
+                  <PathElement X="114" Y="130" />
+                  <PathElement X="158" Y="130" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(9730cdda-13eb-46b4-8081-b18c8f71395b)">
+                <Name />
+                <Description />
+                <Source>(e79f140c-0b76-4493-b927-1540eff659d7)</Source>
+                <Target>(7506a8ef-4f6a-4baa-9f02-a88119a12571)</Target>
+                <Path>
+                  <PathElement X="790" Y="130" />
+                  <PathElement X="840" Y="130" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(188cc4bb-bffe-406b-8b5b-95de762531ef)">
+                <Name />
+                <Description />
+                <Source>(ae5ef136-eeea-498a-8abd-281b396c426a)</Source>
+                <Target>(c8dfd9d4-e2bd-4fc8-9f6e-b15a41a23b99)</Target>
+                <Path>
+                  <PathElement X="180" Y="152" />
+                  <PathElement X="180" Y="240" />
+                  <PathElement X="360" Y="240" />
+                  <PathElement X="520" Y="240" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(c143c48f-f570-48ff-a5a7-bf2febaec91a)">
+                <Name />
+                <Description />
+                <Source>(44778e37-7e72-41d4-a15d-3b23f96d9327)</Source>
+                <Target>(5aa4566c-f7f6-4f91-98b9-02cb27dd551c)</Target>
+                <Path>
+                  <PathElement X="222" Y="720" />
+                  <PathElement X="220" Y="720" />
+                  <PathElement X="220" Y="720" />
+                  <PathElement X="250" Y="720" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(67e2d38c-68d4-4d7e-807a-f06e1828110d)">
+                <Name />
+                <Description />
+                <Source>(b33cd9da-d402-4df9-9552-ba2519a5d14e)</Source>
+                <Target>(5aa4566c-f7f6-4f91-98b9-02cb27dd551c)</Target>
+                <Path>
+                  <PathElement X="302" Y="778" />
+                  <PathElement X="300" Y="750" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(c1477a8b-cccc-4967-a995-96a0f4d85991)">
+                <Name />
+                <Description />
+                <Source>(58e7bf01-4b4f-4cb3-8205-3e5da19b41ae)</Source>
+                <Target>(a06c42f5-82cc-4f9d-bd06-8e4f39071fe1)</Target>
+                <Path>
+                  <PathElement X="136" Y="723" />
+                  <PathElement X="180" Y="660" />
+                  <PathElement X="240" Y="660" />
+                  <PathElement X="340" Y="660" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(701f476b-b5d6-4a15-b971-337168ad5f02)">
+                <Name />
+                <Description />
+                <Source>(9b71c2b3-9e4b-485d-880d-3c2eb36c35a3)</Source>
+                <Target>(c4f1c081-e28b-441e-9faf-14dab7dbf2e5)</Target>
+                <Path>
+                  <PathElement X="1270" Y="50" />
+                  <PathElement X="1280" Y="50" />
+                  <PathElement X="1280" Y="90" />
+                  <PathElement X="1280" Y="108" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+              <SequenceFlow id="(1a2b9206-346b-4c42-8134-f4bb8c2d2a91)">
+                <Name>NO</Name>
+                <Description />
+                <Source>(82a2d26a-c016-4a3a-8d40-eaf1091f8178)</Source>
+                <Target>(ae5ef136-eeea-498a-8abd-281b396c426a)</Target>
+                <Path>
+                  <PathElement X="1340" Y="108" />
+                  <PathElement X="1340" Y="10" />
+                  <PathElement X="180" Y="10" />
+                  <PathElement X="180" Y="108" />
+                </Path>
+                <Quantity>1</Quantity>
+                <IsBiflow>false</IsBiflow>
+              </SequenceFlow>
+            </SequenceFlows>
+            <MessageFlows />
+            <AssociationFlows>
+              <AssociationFlow id="(50ecb901-285a-4cc1-9ca7-ab80bae80d02)">
+                <Name />
+                <Description />
+                <Source>(884f374c-c559-4efc-b738-af1872490742)</Source>
+                <Target>(d606fef7-4318-4c08-a92f-6ac92c36e33f)</Target>
+                <Path>
+                  <PathElement X="110" Y="59" />
+                  <PathElement X="100" Y="116" />
+                </Path>
+                <Direction>NoDirection</Direction>
+              </AssociationFlow>
+            </AssociationFlows>
+          </BPMNElements>
+        </Process>
+      </Pool>
+    </PoolCollection>
+  </BusinessProcessDiagram>
+</BPMN>

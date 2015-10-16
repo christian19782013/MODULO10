@@ -1,6 +1,22 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1444292848091" ID="ID_687657591" MODIFIED="1444292856099" TEXT="COBIT">
+<node CREATED="1444292848091" ID="ID_687657591" MODIFIED="1444724699704">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font size="6">COBIT</font>
+    </p>
+    <ul>
+      <li>
+        <font color="#ff3333" size="5"><b><i><u>Control Objectives for Information and related Technology</u></i></b></font>
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 <node CREATED="1444293548952" ID="ID_1907553445" MODIFIED="1444560921792" POSITION="right" TEXT="4.1">
 <node CREATED="1444293552745" ID="ID_83360910" MODIFIED="1444293613172">
 <richcontent TYPE="NODE"><html>
@@ -144,8 +160,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1444296726645" ID="ID_1176880460" MODIFIED="1444296784560" TEXT="PLANEAR Y ORGANIZAR">
 <icon BUILTIN="full-1"/>
 <node CREATED="1444296929857" HGAP="111" ID="ID_597184958" MODIFIED="1444479229169" TEXT="PO" VSHIFT="-20">
@@ -357,8 +372,7 @@
       CONTROLES DE NEGOCIO
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1444561275061" ID="ID_1981127362" MODIFIED="1444561358267">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -374,8 +388,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1444561500993" ID="ID_350889202" MODIFIED="1444561597227">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -403,8 +416,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1444560957839" ID="ID_1901522740" MODIFIED="1444560964626" TEXT="TIEMPO 1">
 <node CREATED="1444560979695" ID="ID_901893885" MODIFIED="1444560994421">
 <richcontent TYPE="NODE"><html>
@@ -560,8 +572,7 @@
       &#160;Representaci&#243;n Gr&#225;fica de los Modelos de Madurez
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1444563314171" ID="ID_1515061029" MODIFIED="1444563367420">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -572,8 +583,7 @@
       No existente
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="full-0"/>
 <node CREATED="1444563503009" HGAP="60" ID="ID_1556184878" MODIFIED="1444563508916" TEXT="No se aplican procesos administrativos en lo absoluto" VSHIFT="-77"/>
 </node>
@@ -587,8 +597,7 @@
       Inicial /&#160;&#160;Ad hoc
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="full-1"/>
 <node CREATED="1444563519872" ID="ID_45872409" MODIFIED="1444563521207" TEXT=" Los procesos son ad-hoc y desorganizados"/>
 </node>
@@ -619,8 +628,7 @@
       Figura 15 - Tabla de Atributos de Madurez
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1444564451343" ID="ID_1281133884" MODIFIED="1444564452976" TEXT="Conciencia y  Comunicaci&#xf3;n">
 <node CREATED="1444564540043" HGAP="132" ID="ID_1417601186" MODIFIED="1444564750034" TEXT="Surge el reconocimiento de la necesidad del proceso.   &#xa;Existe comunicaci&#xf3;n espor&#xe1;dica de los problemas. " VSHIFT="6">
 <icon BUILTIN="full-1"/>
@@ -638,8 +646,7 @@
       La gerencia comunica los problemas generales.&#160;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="full-2"/>
 </node>
 <node CREATED="1444564649872" HGAP="135" ID="ID_1709461226" MODIFIED="1444564755882" TEXT="Existe el entendimiento de la necesidad de actuar.   &#xa;La gerencia es m&#xe1;s formal y estructurada en su comunicaci&#xf3;n. " VSHIFT="41">
@@ -662,8 +669,7 @@
       Pol&#237;ticas, Est&#225;ndares y Procedimientos
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1444564902533" HGAP="95" ID="ID_1442563857" MODIFIED="1444565179999" VSHIFT="60">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -677,8 +683,7 @@
       Los procesos y las pr&#225;cticas no est&#225;n definidos
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="full-1"/>
 </node>
 <node CREATED="1444564930619" HGAP="111" ID="ID_1266300725" MODIFIED="1444565182062" VSHIFT="25">
@@ -706,8 +711,7 @@
       entendimiento informal de pol&#237;ticas y procedimientos.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="full-2"/>
 </node>
 <node CREATED="1444565017606" HGAP="107" ID="ID_1522149438" MODIFIED="1444565184510" VSHIFT="25">
@@ -723,8 +727,7 @@
       Los procesos, pol&#237;ticas y procedimientos est&#225;n definidos y documentados para todas las actividades clave.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="full-3"/>
 </node>
 <node CREATED="1444565041951" HGAP="98" ID="ID_1458914368" MODIFIED="1444565186910" VSHIFT="56">
@@ -740,8 +743,7 @@
       Todos los aspectos del proceso est&#225;n documentados y son repetibles. La direcci&#243;n ha terminado y aprobado las pol&#237;ticas. Se adoptan y siguen est&#225;ndares para el desarrollo y mantenimiento.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="full-4"/>
 </node>
 <node CREATED="1444565065820" HGAP="99" ID="ID_86590461" MODIFIED="1444565190207" VSHIFT="27">
@@ -757,8 +759,7 @@
       La documentaci&#243;n de procesos ha evolucionado a flujos de trabajo automatizados. Los procesos, las pol&#237;ticas y los procedimientos est&#225;n estandarizados e integrados para permitir una administraci&#243;n y mejora extremo a extremo.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="full-5"/>
 </node>
 </node>
@@ -776,8 +777,7 @@
       No existe un enfoque planeado para el uso de herramientas
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="full-1"/>
 </node>
 <node CREATED="1444565237903" HGAP="141" ID="ID_1605208064" MODIFIED="1444565275613" TEXT="Existen enfoques comunes para el uso de herramientas pero se basan en soluciones desarrolladas por individuos clave.  &#xa;Pueden haberse adquirido herramientas de proveedores, pero probablemente no se aplican de forma correcta o incluso no usarse. " VSHIFT="9">
@@ -796,8 +796,7 @@
       Se usan herramientas por su prop&#243;sito b&#225;sico, pero pueden no estar de acuerdo al plan acordado, y
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="full-3"/>
 </node>
 <node CREATED="1444565302243" HGAP="148" ID="ID_1480178061" MODIFIED="1444565310285" VSHIFT="17">
@@ -813,8 +812,7 @@
       Se usan herramientas en las principales &#225;reas para automatizar la administraci&#243;n del proceso y monitorear las actividades y controles.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="full-4"/>
 </node>
 <node CREATED="1444565328722" HGAP="157" ID="ID_704928927" MODIFIED="1444565336788" VSHIFT="20">
@@ -833,8 +831,7 @@
       Se usan las herramientas para dar soporte a la mejora de los procesos y autom&#225;ticamente detectar excepciones a los controles.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="full-5"/>
 </node>
 </node>
@@ -852,8 +849,7 @@
       No existe un plan de entrenamiento y no hay entrenamiento formal.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="full-1"/>
 </node>
 <node CREATED="1444565884431" HGAP="197" ID="ID_200802597" MODIFIED="1444565956559" VSHIFT="9">
@@ -869,8 +865,7 @@
       Se da entrenamiento como respuesta a las necesidades, en lugar de hacerlo con base en un plan acordado. Existe entrenamiento informal sobre la marcha.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="full-2"/>
 </node>
 <node CREATED="1444565900772" HGAP="207" ID="ID_505048604" MODIFIED="1444565959167" VSHIFT="21">
@@ -886,8 +881,7 @@
       Existe un plan de entrenamiento formal pero todav&#237;a se basa en iniciativas individuales.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="full-3"/>
 </node>
 <node CREATED="1444565920436" HGAP="176" ID="ID_99439531" MODIFIED="1444565961688" VSHIFT="32">
@@ -903,8 +897,7 @@
       Se aplican t&#233;cnicas maduras de entrenamiento de acuerdo al plan de entrenamiento y se fomenta la compartici&#243;n del conocimiento.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="full-4"/>
 </node>
 <node CREATED="1444565936678" HGAP="179" ID="ID_1544110558" MODIFIED="1444565964640" VSHIFT="42">
@@ -920,8 +913,7 @@
       El entrenamiento y la educaci&#243;n dan soporte a las mejores pr&#225;cticas externas y al uso de conceptos y t&#233;cnicas. Compartir el conocimiento es una cultura empresarial, y se est&#225;n desarrollando sistemas basados en el conocimiento. Expertos externos y l&#237;deres industriales se emplean como gu&#237;a.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="full-5"/>
 </node>
 </node>
@@ -936,8 +928,7 @@
       No existe definici&#243;n de responsabilidades y de rendici&#243;n de cuentas. Las personas toman la propiedad de los problemas con base en su propia iniciativa de manera reactiva.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="full-1"/>
 </node>
 <node CREATED="1444566038379" HGAP="97" ID="ID_1480976640" MODIFIED="1444566256445" VSHIFT="10">
@@ -950,8 +941,7 @@
       Un individuo asume su responsabilidad, y por lo general debe rendir cuentas a&#250;n si esto no est&#225; acordado de modo formal. Existe confusi&#243;n acerca de la responsabilidad cuando ocurren problemas y una cultura de culpas tiende a existir.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="full-2"/>
 </node>
 <node CREATED="1444566051288" HGAP="80" ID="ID_1609506114" MODIFIED="1444566258749" VSHIFT="39">
@@ -964,8 +954,7 @@
       La responsabilidad y la rendici&#243;n de cuentas sobre los procesos est&#225;n definidas y se han identificado a los due&#241;os de los procesos de negocio. Es poco probable que el due&#241;o del proceso tenga la autoridad plena para
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="full-3"/>
 </node>
 <node CREATED="1444566066609" HGAP="91" ID="ID_93892296" MODIFIED="1444566261453" VSHIFT="45">
@@ -978,8 +967,7 @@
       Las responsabilidades y la rendici&#243;n de cuentas sobre los procesos est&#225;n aceptadas y funcionan de modo que se permite al due&#241;o del proceso descargar sus responsabilidades. Existe una cultura de recompensas que activa la acci&#243;n positiva.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="full-4"/>
 </node>
 <node CREATED="1444566080657" HGAP="104" ID="ID_809384197" MODIFIED="1444566267965" VSHIFT="35">
@@ -992,8 +980,7 @@
       Los due&#241;os de procesos tienen la facultad de tomar decisiones y medidas. La aceptaci&#243;n de la responsabilidad ha descendido en cascada a trav&#233;s de la organizaci&#243;n de forma consistente.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="full-5"/>
 </node>
 </node>
@@ -1008,8 +995,7 @@
       Las metas no est&#225;n claras y no existen las mediciones.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="full-1"/>
 </node>
 <node CREATED="1444566304089" HGAP="75" ID="ID_450991860" MODIFIED="1444566394379" VSHIFT="48">
@@ -1022,8 +1008,7 @@
       Existen algunas metas; se establecen algunas mediciones financieras pero solo las conoce la alta direcci&#243;n. Hay monitoreo inconsistente en &#225;reas aisladas.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="full-2"/>
 </node>
 <node CREATED="1444566327858" HGAP="83" ID="ID_1463614371" MODIFIED="1444566397003" VSHIFT="45">
@@ -1036,8 +1021,7 @@
       Se establecen algunas mediciones y metas de efectividad, pero no se comunican, y existe una relaci&#243;n clara con las metas del negocio. Surgen los procesos de medici&#243;n pero no se aplican de modo consistente. Se adoptan ideas de
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="full-3"/>
 </node>
 <node CREATED="1444566359180" HGAP="75" ID="ID_1164463195" MODIFIED="1444566399411" VSHIFT="51">
@@ -1050,8 +1034,7 @@
       La eficiencia y la efectividad se miden y comunican y est&#225;n ligadas a las metas del negocio y al plan estrat&#233;gico de TI
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="full-4"/>
 </node>
 <node CREATED="1444566381537" HGAP="73" ID="ID_461047313" MODIFIED="1444566402164" VSHIFT="57">
@@ -1064,8 +1047,7 @@
       Existe un sistema de medici&#243;n de desempe&#241;o integrado que liga al desempe&#241;o de TI con las metas del negocio por la aplicaci&#243;n global del balanced scorecard de TI. La direcci&#243;n nota las excepciones de forma global y consistente y el an&#225;lisis de causas ra&#237;z
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="full-5"/>
 </node>
 </node>
@@ -1080,8 +1062,7 @@
       Marco de Trabajo y &#225;reas de enfoque
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1444606478546" ID="ID_1654943807" MODIFIED="1444606478546" TEXT="">
 <node CREATED="1444606482129" ID="ID_1888794926" MODIFIED="1444606486793" TEXT="Metras"/>
 <node CREATED="1444606488874" ID="ID_43360815" MODIFIED="1444606491661" TEXT="M&#xe9;tricas"/>
@@ -1095,8 +1076,7 @@
       Pr&#225;ctica
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1444606560270" ID="ID_1165580081" MODIFIED="1444606568193" TEXT="Modelos de madure&lt;"/>
 </node>
@@ -1112,8 +1092,7 @@
       Entrega&#160;de valor
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1444606613184" ID="ID_639053649" MODIFIED="1444606623610" TEXT="Gesti&#xf3;n de riesgo"/>
 <node CREATED="1444606641261" ID="ID_465093007" MODIFIED="1444606650900" TEXT="Gesti&#xf3;n  de recursos"/>
@@ -1127,8 +1106,7 @@
       Medici&#243;n del desempe&#241;o
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -1168,15 +1146,16 @@
       Secciones de como utilizar el libro
     </p>
   </body>
-</html>
-</richcontent>
-<node CREATED="1444607733739" ID="ID_1769122042" MODIFIED="1444607749887" TEXT="Descripci&#xf3;n del proceso">
+</html></richcontent>
+<node CREATED="1444607733739" ID="ID_1769122042" MODIFIED="1444723448270" TEXT="Descripci&#xf3;n del proceso">
+<font BOLD="true" NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="full-1"/>
 </node>
-<node CREATED="1444607786868" ID="ID_1654443797" MODIFIED="1444607799455" TEXT="Objetivos de control de este proceso">
+<node CREATED="1444607786868" ID="ID_1654443797" MODIFIED="1444723453399" TEXT="Objetivos de control de este proceso">
+<font BOLD="true" NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="full-2"/>
 </node>
-<node CREATED="1444607808996" ID="ID_413677948" MODIFIED="1444607873223">
+<node CREATED="1444607808996" ID="ID_413677948" MODIFIED="1444723460094">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1186,20 +1165,48 @@
       Contiene las entredas y salidas del proceso,
     </p>
   </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="full-3"/>
+<node CREATED="1444607844784" ID="ID_196684159" MODIFIED="1444724802055">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font size="6">Matriz Raci</font>
+    </p>
+    <ul>
+      <li>
+        Responsible, Accountable, Consulted and Informed (RACI)
+      </li>
+    </ul>
+  </body>
 </html>
 </richcontent>
-<icon BUILTIN="full-3"/>
-<node CREATED="1444607844784" ID="ID_196684159" MODIFIED="1444608061926" TEXT="Matriz Raci">
 <font NAME="SansSerif" SIZE="20"/>
 <node CREATED="1444608063679" ID="ID_1322244017" MODIFIED="1444608074406" TEXT="ROLES DE LA MATRIZ">
 <font NAME="SansSerif" SIZE="18"/>
-<node CREATED="1444608088109" ID="ID_1459140849" MODIFIED="1444608096941" TEXT="DIRECTOR EJECUTIVO(CEO)"/>
-<node CREATED="1444608121805" ID="ID_622624715" MODIFIED="1444608130291" TEXT="DIRECTOR FINANCIERO(CFO)"/>
-<node CREATED="1444608144756" ID="ID_304208889" MODIFIED="1444608152106" TEXT="EJECUTIVOS DEL NEGOCIO"/>
-<node CREATED="1444608158688" ID="ID_1812900866" MODIFIED="1444608169223" TEXT="DIRECTOR INFORM&#xc1;TICO(CIO)"/>
-<node CREATED="1444608201609" ID="ID_1444577836" MODIFIED="1444608209605" TEXT="DUE&#xd1;O DEL PROCESO DE NEGOCIO"/>
-<node CREATED="1444608214196" ID="ID_1975032741" MODIFIED="1444608218526" TEXT="JEFE DE OPERACIONES"/>
-<node CREATED="1444608223179" ID="ID_1074260531" MODIFIED="1444608239755">
+<node CREATED="1444608088109" ID="ID_1459140849" MODIFIED="1444723135828" TEXT="DIRECTOR EJECUTIVO(CEO)">
+<font BOLD="true" NAME="SansSerif" SIZE="20"/>
+</node>
+<node CREATED="1444608121805" ID="ID_622624715" MODIFIED="1444723135828" TEXT="DIRECTOR FINANCIERO(CFO)">
+<font BOLD="true" NAME="SansSerif" SIZE="20"/>
+</node>
+<node CREATED="1444608144756" ID="ID_304208889" MODIFIED="1444723135828" TEXT="EJECUTIVOS DEL NEGOCIO">
+<font BOLD="true" NAME="SansSerif" SIZE="20"/>
+</node>
+<node CREATED="1444608158688" ID="ID_1812900866" MODIFIED="1444723135827" TEXT="DIRECTOR INFORM&#xc1;TICO(CIO)">
+<font BOLD="true" NAME="SansSerif" SIZE="20"/>
+</node>
+<node CREATED="1444608201609" ID="ID_1444577836" MODIFIED="1444723135827" TEXT="DUE&#xd1;O DEL PROCESO DE NEGOCIO">
+<font BOLD="true" NAME="SansSerif" SIZE="20"/>
+</node>
+<node CREATED="1444608214196" ID="ID_1975032741" MODIFIED="1444723135827" TEXT="JEFE DE OPERACIONES">
+<font BOLD="true" NAME="SansSerif" SIZE="20"/>
+</node>
+<node CREATED="1444608223179" ID="ID_1074260531" MODIFIED="1444723135826">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1209,13 +1216,22 @@
       ARQUITECTO EN JEFE
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="20"/>
 </node>
-<node CREATED="1444608245605" ID="ID_302674475" MODIFIED="1444608251369" TEXT="JEFE DE DESARROLLO"/>
-<node CREATED="1444608263400" ID="ID_505188536" MODIFIED="1444608271335" TEXT="JEFE DE ADMINISTRACI&#xd3;N DE TI"/>
-<node CREATED="1444608530592" ID="ID_684862998" MODIFIED="1444608532551" TEXT="PMO"/>
-<node CREATED="1444608553801" ID="ID_1456748018" MODIFIED="1444608586586">
+<node CREATED="1444608245605" ID="ID_302674475" MODIFIED="1444723135826" TEXT="JEFE DE DESARROLLO">
+<font BOLD="true" NAME="SansSerif" SIZE="20"/>
+</node>
+<node CREATED="1444608263400" ID="ID_505188536" MODIFIED="1444723135825" TEXT="JEFE DE ADMINISTRACI&#xd3;N DE TI">
+<font BOLD="true" NAME="SansSerif" SIZE="20"/>
+</node>
+<node CREATED="1444608530592" ID="ID_684862998" MODIFIED="1444723135825" TEXT="PMO">
+<font BOLD="true" NAME="SansSerif" SIZE="20"/>
+<node CREATED="1444723366839" HGAP="130" ID="ID_1474082825" MODIFIED="1444723381272" TEXT="La oficina o funci&#xf3;n de administraci&#xf3;n de proyectos" VSHIFT="10">
+<font NAME="SansSerif" SIZE="20"/>
+</node>
+</node>
+<node CREATED="1444608553801" ID="ID_1456748018" MODIFIED="1444723135820">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1225,8 +1241,49 @@
       CUMPLIMIENTO, AUDITORIA, RIESGO Y SEGURIDAD
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="20"/>
+</node>
+</node>
+<node CREATED="1444723217942" ID="ID_835791113" MODIFIED="1444723217942" TEXT="">
+<node CREATED="1444297997304" ID="ID_1623680039" MODIFIED="1444723229418">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Roles y controles
+    </p>
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="20"/>
+<node CREATED="1444297974130" ID="ID_1431339273" MODIFIED="1444297978145" TEXT="RACI">
+<node CREATED="1444297979862" ID="ID_284497945" MODIFIED="1444723248634" TEXT="R">
+<font NAME="SansSerif" SIZE="24"/>
+<node CREATED="1444298026516" ID="ID_1933381819" MODIFIED="1444723398682" TEXT="Responsable">
+<font BOLD="true" NAME="SansSerif" SIZE="18"/>
+</node>
+</node>
+<node CREATED="1444297982108" ID="ID_210818015" MODIFIED="1444723248634" TEXT="A">
+<font NAME="SansSerif" SIZE="24"/>
+<node CREATED="1444298032547" ID="ID_1273793395" MODIFIED="1444723398681" TEXT="Rinde Cuentas">
+<font BOLD="true" NAME="SansSerif" SIZE="18"/>
+</node>
+</node>
+<node CREATED="1444297985435" ID="ID_1290220415" MODIFIED="1444723248634" TEXT="C">
+<font NAME="SansSerif" SIZE="24"/>
+<node CREATED="1444298050426" ID="ID_198661628" MODIFIED="1444723398681" TEXT="Quien es consultado">
+<font BOLD="true" NAME="SansSerif" SIZE="18"/>
+</node>
+</node>
+<node CREATED="1444297987452" ID="ID_734615850" MODIFIED="1444723248633" TEXT="I">
+<font NAME="SansSerif" SIZE="24"/>
+<node CREATED="1444298066392" ID="ID_497094009" MODIFIED="1444723398679" TEXT="Informado">
+<font BOLD="true" NAME="SansSerif" SIZE="18"/>
+</node>
+</node>
+</node>
 </node>
 </node>
 </node>
@@ -1240,12 +1297,12 @@
       Metas
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1444607864471" ID="ID_1262181452" MODIFIED="1444607869799" TEXT="M&#xe9;tricas"/>
 </node>
-<node CREATED="1444607888305" ID="ID_959668936" MODIFIED="1444607901667" TEXT="Modelo de madurez del proceso">
+<node CREATED="1444607888305" ID="ID_959668936" MODIFIED="1444723466734" TEXT="Modelo de madurez del proceso">
+<font BOLD="true" NAME="SansSerif" SIZE="16"/>
 <icon BUILTIN="full-4"/>
 </node>
 </node>
@@ -1266,8 +1323,7 @@
       ISO 17799
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1444608908597" HGAP="52" ID="ID_878740753" MODIFIED="1444608946614" TEXT="Para seguridad de la informaci&#xf3;n" VSHIFT="10"/>
 </node>
 <node CREATED="1444608865058" ID="ID_1824181240" MODIFIED="1444608871187" TEXT="PMBOOK">
@@ -1286,8 +1342,7 @@
       Nombre del proceso
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1444607062734" HGAP="36" ID="ID_1594952097" MODIFIED="1444607369294" TEXT="" VSHIFT="4">
@@ -1324,8 +1379,7 @@
       metas de actividad
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1444607279404" ID="ID_1515947587" MODIFIED="1444607279404" TEXT="">
